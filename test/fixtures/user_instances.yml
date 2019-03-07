@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_habits: one
+  status: false
+  date: MyString
+
+two:
+  user_habits: two
+  status: false
+  date: MyString
