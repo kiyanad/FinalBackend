@@ -8,6 +8,7 @@ post '/login', to: 'auth#create'
 get '/profile', to: 'users#profile'
     resources :user_instances
     resources :user_books
+    resources :activities
 
       end
      end
